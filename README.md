@@ -1,11 +1,11 @@
 ## SkeletonTrackingApp
-
 SkeletonTrackingApp include libs: 
 
-[**Java for Kinct (J4K)**](http://research.dwi.ufl.edu/ufdw/j4k/)
+- [**Java for Kinct (J4K)**](http://research.dwi.ufl.edu/ufdw/j4k/)
   - The J4K library is a popular open source Java library that implements a Java binding for the Microsoft's Kinect SDK. It communicates with a native Windows library, which handles the depth, color, infrared, and skeleton streams of the Kinect using the Java Native Interface (JNI).</br>
-[**JavaFX**](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
+- [**JavaFX**](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
   - JavaFX is the next step in the evolution of Java as a rich client platform. It is designed to provide a lightweight, hardware-accelerated Java UI platform for enterprise business applications. With JavaFX, developers can preserve existing investments by reusing Java libraries in their applications. They can even access native system capabilities, or seamlessly connect to server-based middleware applications.</br>
+
 ----------------------------------------------------
 ### project 
 - lib
