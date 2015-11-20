@@ -65,6 +65,10 @@ public class Kinect extends J4KSDK {
 	public static int getCurrent() {
 		return current;
 	}
+	
+	public static void setCurrent(int count) {
+		current = count;
+	}
 
 	public static int getSkeletonsEventCounts() {
 		return skeletonsEventCounts;
