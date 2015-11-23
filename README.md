@@ -1,5 +1,5 @@
 ## SkeletonTrackingApp with CoAP Server
-### includes:
+### includes
 - [**Java for Kinct (J4K)**](http://research.dwi.ufl.edu/ufdw/j4k/)
   - The J4K library is a popular open source Java library that implements a Java binding for the Microsoft's Kinect SDK. It communicates with a native Windows library, which handles the depth, color, infrared, and skeleton streams of the Kinect using the Java Native Interface (JNI).</br>
 
