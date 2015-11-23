@@ -35,9 +35,9 @@
     - detect skeletons per second 
   - **Root.java** extends CoapResource (californium-core)
     - add resource and resource child
-  - **Server.java** extends extends CoapServer (californium-core)
+  - **Server.java** extends CoapServer (californium-core)
     - provide an instance of resources
-  - **SkeletonTrackingResource.java**
+  - **SkeletonTrackingResource.java** extends CoapResource (californium-core) 
     - observe people count
   - **ViewerPanel** (not implement)
     - extends OpenGLPanel (udfw)
